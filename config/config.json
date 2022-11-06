@@ -16,7 +16,7 @@
   "production": {
     "username": "sql12547050",
     "password": "9zcqaAASS4",
-    "database": "dsql12547050",
+    "database": "sql12547050",
     "host": "sql12.freemysqlhosting.net",
     "dialect": "mysql"
   }
