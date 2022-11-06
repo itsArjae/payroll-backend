@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "arjae2000",
+    "database": "payroll",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "sql12547050",
+    "password": "9zcqaAASS4",
+    "database": "dsql12547050",
+    "host": "sql12.freemysqlhosting.net",
+    "dialect": "mysql"
+  }
+}
