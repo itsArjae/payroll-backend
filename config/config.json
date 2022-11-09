@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "sql12547050",
-    "password": "9zcqaAASS4",
-    "database": "sql12547050",
-    "host": "sql12.freemysqlhosting.net",
-    "dialect": "mysql"
+    "username": "payrolldb_user",
+    "password": "Un9UZBEVMLfosg5mDSqig164IljbDtpr",
+    "database": "payrolldb",
+    "host": "dpg-cdlm93da4997vadcpod0-a",
+    "dialect": "postgres"
   }
 }
